@@ -1,0 +1,15 @@
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\bin\Debug\net6.0\OpenBootCamp.Sesion5.exe
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\bin\Debug\net6.0\OpenBootCamp.Sesion5.deps.json
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\bin\Debug\net6.0\OpenBootCamp.Sesion5.runtimeconfig.json
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\bin\Debug\net6.0\OpenBootCamp.Sesion5.dll
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\bin\Debug\net6.0\OpenBootCamp.Sesion5.pdb
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.csproj.AssemblyReference.cache
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.AssemblyInfoInputs.cache
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.AssemblyInfo.cs
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.csproj.CoreCompileInputs.cache
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.dll
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\refint\OpenBootCamp.Sesion5.dll
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.pdb
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\OpenBootCamp.Sesion5.genruntimeconfig.cache
+C:\Proyectos\backend\ApiOpenBootCamp\OpenBootCamp\OpenBootCamp.Sesion5\obj\Debug\net6.0\ref\OpenBootCamp.Sesion5.dll

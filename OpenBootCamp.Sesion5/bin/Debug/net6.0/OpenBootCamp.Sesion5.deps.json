@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OpenBootCamp.Sesion5/1.0.0": {
+        "runtime": {
+          "OpenBootCamp.Sesion5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenBootCamp.Sesion5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
